@@ -1,0 +1,54 @@
+.souligner
+{
+    text-decoration: underline;
+}
+h1
+{
+    font-weigth: bold;
+}
+.bordure
+{
+    border: 2px double rbg(100,50,70);
+    border-radius:10px;
+}
+.ittalique
+{
+    font-style: italic;
+}
+.police
+{
+    font-size: 25px;
+}
+h2
+{
+    font-size: 30px
+}
+.red
+{
+    color: red;
+}
+.blue
+{
+    color: blue;
+}
+.green
+{
+    color: green;
+}
+.img-style
+{
+display:block;
+    margin-left:10mm;
+    margin-right:60mm;
+    border-radius:20px;
+    box-shadow: 6px 6px 6px rgba(0,0,0,0.6);
+    width: 30%;
+}
+background
+{
+    background-color:rgba(52,76,235,0.4)
+}
+backgroundimage
+{
+    background-color: rgb(235,52,52)
+}
